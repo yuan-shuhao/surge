@@ -1,4 +1,5 @@
-{
+var objc = JSON.parse($response.body);
+objc = {
   "code": 0,
   "message": "成功",
   "data": [
@@ -10,14 +11,14 @@
       "version": "2"
     },
     {
-      "label": "正常参保",
+      "label": "未参保",
       "value": "1",
       "type": "PSN_INSU_STAS",
       "valiFlag": "1",
       "version": "2"
     },
     {
-      "label": "正常参保",
+      "label": "未参保",
       "value": "2",
       "type": "PSN_INSU_STAS",
       "valiFlag": "1",
@@ -40,3 +41,4 @@
   ],
   "type": "success"
 }
+$done({body : JSON.stringgify(objc)});
