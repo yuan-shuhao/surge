@@ -1,5 +1,5 @@
 #2024-11-19
-USER-AGENT,*Dart*
+DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,bytick.com
 DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,bybit.com
@@ -11,4 +11,7 @@ DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de
 DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
 DOMAIN-SUFFIX,bybit.biz
 DOMAIN-SUFFIX,appsflyer.com
-DOMAIN-KEYWORD,bybit
+DOMAIN-SUFFIX,geetest.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,cloudfront.net
